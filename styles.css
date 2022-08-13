@@ -79,6 +79,7 @@ body {
   justify-content: center;
   width: 50%;
   margin: 1em 0em;
+  flex-wrap: wrap;
 }
 
 @media only screen and (max-width: 960px) {
@@ -105,8 +106,8 @@ body {
   font-family: var(--fontFamily);
   font-size: 0.85rem;
   width: 25%;
-  height: 12em;
-  margin: 0em 0.5em;
+  height: 15em;
+  margin: 5px;
   box-sizing: border-box;
 }
 

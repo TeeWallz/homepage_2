@@ -5,36 +5,18 @@ const bookmarks = [
     links: [
       { name: "Inbox", url: "https://inbox.google.com" },
       { name: "GitHub", url: "https://github.com" },
-      { name: "Drive", url: "https://drive.google.com" },
+      { name: "Drive", url: "https://onedrive.live.com/" },
     ],
   },
   {
     title: "Media",
     links: [
       { name: "Youtube", url: "https://youtube.com" },
-      { name: "Netflix", url: "https://netflix.com" },
-      { name: "Crunchyroll", url: "https://crunchyroll.com" },
-      {
-        name: "Amazon Prime",
-        url: "https://www.amazon.com/Amazon-Video",
-      },
-    ],
-  },
-  {
-    title: "Reddit",
-    links: [
-      { name: "/r/overwatch", url: "https://reddit.com/r/overwatch" },
-      {
-        name: "/r/pcmasterrace",
-        url: "https://reddit.com/r/pcmasterrace",
-      },
-      { name: "/r/me_irl", url: "https://reddit.com/r/me_irl" },
-      {
-        name: "/r/battlestations",
-        url: "https://reddit.com/r/battlestations",
-      },
-      { name: "/r/unixporn", url: "https://reddit.com/r/unixporn" },
-      { name: "/r/news", url: "https://reddit.com/r/news" },
+      { name: "Spotify", url: "https://open.spotify.com/" },
+      { name: "Radio Garden", url: "http://radio.garden/listen/tok/ZMah3fCw" },
+      { name: "MAL", url: "https://myanimelist.net/profile/superraiden#" },
+      { name: "1337.to", url: "https://1337x.to/" },
+      { name: "ev01 - Stream anything", url: "https://ev01.to/" },
     ],
   },
   {
@@ -44,21 +26,37 @@ const bookmarks = [
       { name: "Facebook", url: "https://facebook.com" },
     ],
   },
-    {
-    title: "Reddit",
+  {
+    title: "Development",
     links: [
-      { name: "/r/overwatch", url: "https://reddit.com/r/overwatch" },
+      { name: "Github", url: "https://github.com/" },
+      { name: "Lightsail", url: "https://lightsail.aws.amazon.com/ls/webapp/home" },
+      { name: "Cloudflare", url: "https://dash.cloudflare.com/7d6da5479dd9be13e7fe945a71d07383" },
+
+    ],
+  }, {
+    title: "Polish",
+    links: [
       {
-        name: "/r/pcmasterrace",
-        url: "https://reddit.com/r/pcmasterrace",
+        "name": "Pons Translator",
+        "url": "https://en.pons.com/text-translation"
       },
-      { name: "/r/me_irl", url: "https://reddit.com/r/me_irl" },
       {
-        name: "/r/battlestations",
-        url: "https://reddit.com/r/battlestations",
+        "name": "Wikitionary",
+        "url": "https://en.wiktionary.org/wiki/Wiktionary:Main_Page"
       },
-      { name: "/r/unixporn", url: "https://reddit.com/r/unixporn" },
-      { name: "/r/news", url: "https://reddit.com/r/news" },
+      {
+        "name": "Source Of Polish - Grammar Haven",
+        "url": "https://courseofpolish.com/grammar"
+      },
+      {
+        "name": "Po Polsku Po Polsce",
+        "url": "https://www.popolskupopolsce.edu.pl/pogotowie-jezykowe"
+      },
+      {
+        "name": "Lekcja z Marcinem",
+        "url": "https://onedrive.live.com/edit.aspx?cid=0b6a3ef0a7d1ad7b&page=view&resid=B6A3EF0A7D1AD7B!1597&parId=B6A3EF0A7D1AD7B!895&app=Excel&wacqt=search"
+      }
     ],
   },
 ];
