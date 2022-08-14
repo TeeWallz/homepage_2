@@ -32,6 +32,8 @@ const bookmarks = [
       { name: "Github", url: "https://github.com/" },
       { name: "Lightsail", url: "https://lightsail.aws.amazon.com/ls/webapp/home" },
       { name: "Cloudflare", url: "https://dash.cloudflare.com/7d6da5479dd9be13e7fe945a71d07383" },
+      { name: "Local Airflow", url: "http://localhost:8080/home" },
+      { name: "DBT Cloud", url: "https://cloud.getdbt.com/login/" },
       { name: "Edge Router", url: "https://192.168.0.1:8443/" },
 
     ],
